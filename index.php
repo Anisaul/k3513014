@@ -1,6 +1,6 @@
 <?php
-//komentar1
-//komentar_teman
+//komentar 1
+//komentar teman
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
